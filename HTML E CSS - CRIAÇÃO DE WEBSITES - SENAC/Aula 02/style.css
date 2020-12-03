@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+}
+#topo {
+	background-color: #FF7C00;
+	height: 75px;
+	color: black;
+	padding: 10px;
+	font-size:30px;
+	font-weight:bolder;
+	text-align:;
+}
+#menu {
+	background-color: #FF912A;
+	height: 50px;
+	color: black;
+	margin-top:5px;
+	padding: 10px;
+	font-size: 18px;
+	font-weight:bold;
+	text-align:center;
+}
+#conteudo {
+	background-color: #FFA24B;
+	min-height: 370px;
+	color: black;
+	margin-top:5px;
+	padding: 10px;
+	font-size: 20px;
+	font-weight:bold;
+	text-align:;
+}
+#rodape {
+	background-color: #FFBA79;
+	height: 30px;
+	color: black;
+	margin-top:5px;
+	padding: 10px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:;
+}
+body {
+	background-color:black;
+	font-family:"Arial","Impact Regular";
+	font-size:;
+	font-weight:; 
+	text-align:;
+}
+a{
+	text-decoration:none;
+	color:;
+	text-align:;
+}
+.item-menu{
+	width:100px;
+	display:inline-block;
+	background-color:white;
+	border-radius:5px;
+	border: 1px solid gray;
+	
+}
+.item-menu:hover {
+	background-color:black;
+	color:orange;
+}
