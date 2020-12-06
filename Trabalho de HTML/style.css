@@ -1,20 +1,107 @@
-#imagem_topo {
-    width:800px;
+body {
+    background-color: rgb(48, 179, 48);
+}
+
+.imagem_topo {
+    width:100%;
+    height: 300px;
+}
+
+.cabecalho {
+    top: 55px;
+    position: absolute;
+    padding-left: 7%;
+    font-size: 250%;
+    font-weight: bold;
+    font-family: 'Impact Regular';
+    color: rgb(1, 255, 1);
+}   
+
+.caixa_imagem {
+    width: 150px;
+	display: inline-block;
+}
+
+.natal { 
+    width:150%;
     height: 200px;
+    padding-left: 20%;
+    padding-top: 14%;
+}
+.riodocampo {
+    width:150%;
+    height: 200px;
+    padding-left: 100%;
+    padding-top: 14%;
 }
 
-#cabecalho {
-    
+.floripa {
+    width:150%;
+    height: 200px;
+    padding-left: 170%;
+    padding-top: 14%;
 }
 
-#cidades_links {
-
+.curitiba {
+    width:150%;
+    height: 200px;
+    padding-left: 240%;
+    padding-top: 14%;
 }
 
-#lista_itens {
-
+.corupa {
+    width:150%;
+    height: 200px;
+    padding-left: 310%;
+    padding-top: 14%;
 }
 
-.cotações {
-    text-align: right;
+.textonatal {
+    padding-left: 8%;
+    position: absolute;
+    font-family: 'Impact Regular';
+}
+
+.textorio {
+    padding-left: 15%;
+    position: absolute;
+    font-family: 'Impact Regular';
+}
+
+.textofloripa{
+    padding-left: 23%;
+    position: absolute;
+    font-family: 'Impact Regular';
+}
+
+.textocuritiba {
+    padding-left: 31%;
+    position: absolute;
+    font-family: 'Impact Regular';
+}
+
+.textocorupa {
+    padding-left: 39%;
+    position: absolute;
+    font-family: 'Impact Regular';
+}
+
+#rodape {
+    position: absolute;
+    left: 480px;
+    padding-top: 3%;
+    font-family: 'Arial';
+}
+
+.cabecalho_lista {
+    font-family: 'Impact Regular';
+    text-align: center;
+}
+
+h4 {
+    text-align: left;
+}
+
+.rodape_lista {
+    padding-left:600px;
 }
