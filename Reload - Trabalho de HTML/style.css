@@ -1,0 +1,40 @@
+.background {
+    border: none !important;
+    background-color: black;
+}
+
+.seta-aviao {
+    position: absolute;
+    top: 20px;
+    padding-left: 220px;
+}
+
+.texto-aviao {
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'Impact Regular';
+    color: rgba(26, 0, 175, 0.973);
+
+    position: absolute;
+    top: 230px;
+    padding-left: 220px;
+
+}
+
+.seta-mala {
+    position: absolute;
+    top: 290px;
+    padding-left: 1180px;
+}
+
+.texto-mala {
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'arial-black';
+    color: rgba(247, 168, 0, 0.973);
+
+    position: absolute;
+    top: 560px;
+    padding-left: 1000px;
+
+}

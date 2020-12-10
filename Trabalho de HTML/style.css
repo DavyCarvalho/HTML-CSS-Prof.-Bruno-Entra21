@@ -22,66 +22,74 @@ body {
 	display: inline-block;
 }
 
+#bloco_de_imagens {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
 .natal { 
     width:150%;
     height: 200px;
-    padding-left: 20%;
+    /* padding-left: 20%; */
     padding-top: 14%;
 }
+
 .riodocampo {
     width:150%;
     height: 200px;
-    padding-left: 100%;
+    /* padding-left: 100%; */
     padding-top: 14%;
 }
 
 .floripa {
     width:150%;
     height: 200px;
-    padding-left: 170%;
+    /* padding-left: 170%; */
     padding-top: 14%;
 }
 
 .curitiba {
     width:150%;
     height: 200px;
-    padding-left: 240%;
+    /* padding-left: 240%; */
     padding-top: 14%;
 }
 
 .corupa {
     width:150%;
     height: 200px;
-    padding-left: 310%;
+    /* padding-left: 310%; */
     padding-top: 14%;
 }
 
 .textonatal {
-    padding-left: 8%;
+    /* padding-left: 8%; */
     position: absolute;
     font-family: 'Impact Regular';
 }
 
 .textorio {
-    padding-left: 15%;
+    /* padding-left: 15%; */
     position: absolute;
     font-family: 'Impact Regular';
 }
 
 .textofloripa{
-    padding-left: 23%;
+    /* padding-left: 23%; */
     position: absolute;
     font-family: 'Impact Regular';
 }
 
 .textocuritiba {
-    padding-left: 31%;
+    /* padding-left: 31%; */
     position: absolute;
     font-family: 'Impact Regular';
 }
 
 .textocorupa {
-    padding-left: 39%;
+    /* padding-left: 39%; */
     position: absolute;
     font-family: 'Impact Regular';
 }
